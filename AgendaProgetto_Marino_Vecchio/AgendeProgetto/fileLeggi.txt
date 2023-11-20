@@ -1,0 +1,7 @@
+12-03-2023;12-30;60;Mario;Torino
+22-03-2023;18-00;120;Paolo;Milano
+28-04-2023;18-30;35;Piero;Torino
+28-05-2023;12-30;60;Bob;Torino
+28-06-2023;15-30;90;Francesco;Milano
+28-07-2023;10-30;60;Gianluca;Vercelli
+01-08-2023;16-00;45;Paolo;Vercelli
