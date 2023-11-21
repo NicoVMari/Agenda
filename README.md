@@ -55,3 +55,8 @@ può essere effettuata per data oppure usando il nome della persona con cui si h
 d Elencare, ordinati per data, tutti gli appuntamenti dell’agenda.
 
 Infine l’agenda deve essere iterabile, ma non permettere di rimuovere elementi mentre si itera.
+
+
+<p align="center">
+  <img src="https://github.com/NicoVMari/Agenda/assets/96552280/f218b85c-5f41-4d0f-aa2d-71cfd1093c14" alt="Testo alternativo" width="300" />
+</p>
