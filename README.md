@@ -58,5 +58,5 @@ Infine l’agenda deve essere iterabile, ma non permettere di rimuovere elementi
 
 
 <p align="center">
-  <img src="https://github.com/NicoVMari/Agenda/assets/96552280/f218b85c-5f41-4d0f-aa2d-71cfd1093c14" alt="Testo alternativo" width="300" />
+  <img src="https://github.com/NicoVMari/Agenda/assets/96552280/f218b85c-5f41-4d0f-aa2d-71cfd1093c14" alt="Testo alternativo" />
 </p>
