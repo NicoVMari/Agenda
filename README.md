@@ -1,10 +1,6 @@
 # Agenda
 
-Progetto per la prova finale del corso di
-
-Paradigmi di Programmazione
-
-a.a. 2022/2023
+## Progetto per la prova finale del corso di Paradigmi di Programmazione a.a. 2022/2023
 
 Il progetto va svolto in gruppi di al più 2 persone. In casi eccezionali si accettano gruppi di 3 persone, ma dovete avere la mia autorizzazione.
 
