@@ -2,20 +2,7 @@
 
 Progetto per la prova finale del corso di Paradigmi di Programmazione a.a. 2022/2023
 
-Il progetto va svolto in gruppi di al più 2 persone. In casi eccezionali si accettano gruppi di 3 persone, ma dovete avere la mia autorizzazione.
-
-Requisiti
-
-Lo svolgimento deve tenere in considerazione i seguenti principi :
-
-- le classi del sistema devono essere corredate da classi di test;
-- il progetto deve essere accompagnato da una breve relazione in cui vengono spiegate ed illustrate le scelte adottate;
-- commentate i metodi public e classi con javadoc (trovate una breve intro- duzione a javadoc in questo contenitore);
-- per quanto riguarda l’interfaccia utente (che deve essere separata dalla classi che realizzano la logica del sistema) è sufficiente accedere a tutte le funzioni del sistema da riga di comando;
-
-Nello svolgere il progetto usare i principi visti nel corso. In particolare, buona strutturazione delle classi, uso di classi interne e interfacce se necessario. Ogni classe ha un compito preciso (e fa solo quello), ha campi privati, i metodi di dimensione limitata, no ripetizione di codice, astrazioni appropriate, buon uso delle eccezioni, test semplici, ecc.
-
-Progetto: Gestione di un’agenda di appuntamenti
+Gestione di un’agenda di appuntamenti
 
 Progettare ed implementare in Java un sistema per la gestione di un insieme di agende.
 
