@@ -23,19 +23,13 @@ Il programma deve permettere di interagire con diverse agende e dare la possi- b
 
 Una volta selezionata un’agenda (fra quelle definite) si possono fare le seguenti operazioni:
 
-a Inserire un nuovo appuntamento nell’agenda. In tal caso è necessario verificare
+a. Inserire un nuovo appuntamento nell’agenda. In tal caso è necessario verificare correttezza e completezza dei dati inseriti e che non ci siano sovrapposizioni con altri appuntamenti già definiti per quello stesso orario, tenendo anche conto della durata.
 
-correttezza e completezza dei dati inseriti e che non ci siano sovrapposizioni con altri appuntamenti già definiti per quello stesso orario, tenendo anche conto della durata.
+b. Modificare i dati relativi a un appuntamento già registrato, effettuando gli stessi controlli del punto precedente.
 
-b Modificare i dati relativi a un appuntamento già registrato, effettuando gli
+c. Cercare gli appuntamenti e presentare tutte le relative informazioni. La ricerca può essere effettuata per data oppure usando il nome della persona con cui si ha l’appuntamento.
 
-stessi controlli del punto precedente.
-
-c Cercare gli appuntamenti e presentare tutte le relative informazioni. La ricerca
-
-può essere effettuata per data oppure usando il nome della persona con cui si ha l’appuntamento.
-
-d Elencare, ordinati per data, tutti gli appuntamenti dell’agenda.
+d. Elencare, ordinati per data, tutti gli appuntamenti dell’agenda.
 
 Infine l’agenda deve essere iterabile, ma non permettere di rimuovere elementi mentre si itera.
 
