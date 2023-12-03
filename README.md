@@ -4,7 +4,7 @@
 
 Il progetto ha l'obiettivo di implementare in Java un sistema per la gestione di un insieme di agende, focalizzandosi sulla gestione degli appuntamenti. Ogni agenda è caratterizzata da un nome unico e contiene un elenco di appuntamenti con le seguenti informazioni:
 
-- Data dell'appuntamento (formato: gg-mm-aaaa)
+- 'Data' dell'appuntamento (formato: gg-mm-aaaa)
 - Orario dell'appuntamento (formato: hh-mm)
 - Durata prevista espressa in minuti
 - Nome della persona con cui si ha l'appuntamento
