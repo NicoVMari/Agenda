@@ -1,8 +1,6 @@
-# Progetto Agenda
+# Agenda
 
 **Progetto per la prova finale del corso di Paradigmi di Programmazione a.a. 2022/2023**
-
-## Descrizione del Progetto
 
 Il progetto ha l'obiettivo di implementare in Java un sistema per la gestione di un insieme di agende, focalizzandosi sulla gestione degli appuntamenti. Ogni agenda è caratterizzata da un nome unico e contiene un elenco di appuntamenti con le seguenti informazioni:
 
