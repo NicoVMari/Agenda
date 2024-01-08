@@ -1,0 +1,11 @@
+.gradle
+.settings
+gradle
+.classpath
+.gitattributes
+.project
+build.gradle.kts
+gradle.properties
+gradlew
+gradlew.bat
+settings.gradle.kts
