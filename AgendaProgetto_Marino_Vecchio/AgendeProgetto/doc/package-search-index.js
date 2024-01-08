@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"agenda_appuntamenti"},{"l":"All Packages","u":"allpackages-index.html"},{"l":"jbook.util"},{"l":"test"}];updateSearchResults();
